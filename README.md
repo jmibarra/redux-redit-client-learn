@@ -1,3 +1,7 @@
+# Proyecto de práctica para conocer Redux
+
+Práctica de Redux y react, el mismo se basa en el articulo de Tal Kol (@talkol) [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
